@@ -13,7 +13,7 @@ A simple full-stack web application built using **Express.js**, **MongoDB**, and
 
 ---
 
-## 🏗️ Folder Structure
+**## 🏗️ Folder Structure**
 
 
 express-pug-students/
@@ -33,9 +33,9 @@ express-pug-students/
 
 ---
 
-## ⚙️ Installation & Setup
+**## ⚙️ Installation & Setup
 
-### 1. Clone the Repository
+### 1. Clone the Repository**
 
 ```bash
 git clone: https://github.com/nagesh-makanapur/express-pug-students.git
